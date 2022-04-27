@@ -1,5 +1,6 @@
 # skill-test
-- Download the repository 
+- Download the repository
+- Open the CMD into the folder
 - Run $npm install
 - Run $node index.js
 
